@@ -10,11 +10,19 @@ import UIKit
 
 class ViewController: UIViewController {
 
+
+    @IBOutlet weak var funFactLabel: UILabel!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        
     }
 
-
+    @IBAction func showFact() {
+        funFactLabel.textColor = UIColor.red
+        funFactLabel.text = "SMITHA WAKE UP"
+    }
+    
 }
 
