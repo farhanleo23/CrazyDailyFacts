@@ -12,6 +12,7 @@
 		D8EABCEA22A1E3BC00B334E7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D8EABCE822A1E3BC00B334E7 /* Main.storyboard */; };
 		D8EABCEC22A1E3BE00B334E7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D8EABCEB22A1E3BE00B334E7 /* Assets.xcassets */; };
 		D8EABCEF22A1E3BE00B334E7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D8EABCED22A1E3BE00B334E7 /* LaunchScreen.storyboard */; };
+		D8EABCF722A32A3B00B334E7 /* FactProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8EABCF622A32A3B00B334E7 /* FactProvider.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		D8EABCEB22A1E3BE00B334E7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D8EABCEE22A1E3BE00B334E7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D8EABCF022A1E3BE00B334E7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D8EABCF622A32A3B00B334E7 /* FactProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FactProvider.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				D8EABCE422A1E3BC00B334E7 /* AppDelegate.swift */,
 				D8EABCE622A1E3BC00B334E7 /* ViewController.swift */,
+				D8EABCF622A32A3B00B334E7 /* FactProvider.swift */,
 				D8EABCE822A1E3BC00B334E7 /* Main.storyboard */,
 				D8EABCEB22A1E3BE00B334E7 /* Assets.xcassets */,
 				D8EABCED22A1E3BE00B334E7 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				D8EABCE722A1E3BC00B334E7 /* ViewController.swift in Sources */,
 				D8EABCE522A1E3BC00B334E7 /* AppDelegate.swift in Sources */,
+				D8EABCF722A32A3B00B334E7 /* FactProvider.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
