@@ -1,3 +1,3 @@
 # CrazyDailyFacts
 
-An app that gives you daily facts!
+An app that gives you daily facts.
